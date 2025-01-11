@@ -3,7 +3,7 @@
 
 - Created - 2024.11.16
 
-- Technologies Used - Html , Tailwindcss
+- Technologies Used - Html , Tailwindcss, Javascript
 
   - Role - Frontend
 
